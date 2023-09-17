@@ -22,5 +22,6 @@ My strongest technical skills:
 
 Eager to continue growing my technical acumen and leadership capabilities within forward-thinking software teams, especially those leveraging Java, microservices, and cloud-native technologies to deliver business value. Let's connect!
 
+[![Medium Badge](https://img.shields.io/badge/-Mahdieh_Blog-blue?style=flat-square&logo=Medium&logoColor=white&color=black&link=https://medium.com/@mahdie-asiyaban)](https://medium.com/@mahdie-asiyaban)
 [![Gmail Badge](https://img.shields.io/badge/-mahdieh.asiaban@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mahdie.asiaban@gmail.com)](mailto:mahdie.asiaban@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Mahdieh_Asiyaban-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahdieh-asiyaban/)](https://www.linkedin.com/in/mahdieh-asiyaban/) 
